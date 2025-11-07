@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahim Arafat Amit</h1>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQG1-EWbBODijw/profile-displaybackgroundimage-shrink_350_1400/B4DZox6rhMIAAc-/0/1761774059543?e=1764201600&v=beta&t=kVM_-McvflqYcfevUFIQsNSnXoI_6Eo76yOMwlkob4M">
 <h3 align="center">Creative Web Designer Developer & WordPress Expert. I create modern and user-friendly websites that help your business grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devfaa1997&label=Profile%20views&color=0e75b6&style=flat" alt="devfaa1997" /> </p>
