@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQG1-EWbBODijw/profile-displaybackgroundimage-shrink_350_1400/B4DZox6rhMIAAc-/0/1761774059543?e=1766016000&v=beta&t=PtOFQTUqMReVMGX34pQCdbR4yFnY2EM5fMyyYbYB1uc">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFREpo3HUXa2A/profile-displaybackgroundimage-shrink_350_1400/B56ZwFAy19IwAc-/0/1769610621748?e=1771459200&v=beta&t=Dz6xeuvyncGSPOpvmuMR0agedglqc5RXMDycTwxqGBY">
 <h3 align="center">Creative Web Designer Developer & WordPress Expert. I create modern and user-friendly websites that help your business grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devfaa1997&label=Profile%20views&color=0e75b6&style=flat" alt="devfaa1997" /> </p>
